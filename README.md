@@ -1,4 +1,4 @@
-# image_to_text_conversion
+# speech_to_text_conversion
 
 A new Flutter project.
 
